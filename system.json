@@ -1,0 +1,21 @@
+{
+  "name": "shadowrun-six",
+  "title": "Shadowrun 6th Edition",
+  "description": "A System for playing Shadowrun 6 games.",
+  "author": "Obstel | Korvegan#7749",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "0.7.5",
+  "esmodules": [
+    "shadowrun-six.js"
+  ],
+  "styles": [
+    "shadowrun-six.css"
+  ],
+  "packs": [
+
+  ],
+  "languages": [
+
+  ]
+}
