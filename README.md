@@ -1,2 +1,2 @@
 # shadowrun-six
-we are going to create a shadowrun 6 edition foundry vtt module.
+The goal is to to create a shadowrun 6 edition foundry vtt module.
